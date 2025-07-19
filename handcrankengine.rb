@@ -1,4 +1,4 @@
-class handcrankengine < Formula
+class HandcrankEngine < Formula
   version "0.0.1"
   desc "Handcrank Engine is a cross-platform game engine written in C++ utilizing SDL."
   homepage "https://github.com/HandcrankEngine/HandcrankEngine"
